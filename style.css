@@ -1,0 +1,31 @@
+<style>
+			table	{
+				width: 50%;
+				height: 50%;
+			}
+			
+			table, th, td	{
+				border: 1px solid black;
+			}
+			
+			th, td	{
+				text-align: center;
+			}
+			
+			tr:nth-child(even);
+			
+			body	{
+				height: 100%;
+				margin: 0;
+
+				
+			}	
+			th	{
+				background-color: #8387a5;
+			}
+			
+			td	{
+				background-color: #88709c;
+			}
+			
+		</style>
